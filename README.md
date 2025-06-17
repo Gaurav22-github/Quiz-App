@@ -17,9 +17,10 @@ cd quiz-master
 2.Install dependencies
 npm install
 
-1.	Configure Firebase
+3.	Configure Firebase
 o	Replace the Firebase config in App.jsx with your own credentials.
-2.	Run the app
+
+5.	Run the app
 npm run dev
 Tech Stack
 •	React
